@@ -42,3 +42,4 @@ if __name__ == '__main__':
 #probar
 # No Other/Other/7.42/7.33/7.42/7.25/7.33/0.0
 # Yes Guatemala/Bourbon/7.83/7.67/7.33/7.67/7.67/0.11
+# https://coffeap.herokuapp.com/
